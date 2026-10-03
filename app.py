@@ -3,8 +3,8 @@ import streamlit as st
 
 # Configuración de la página
 st.set_page_config(
-    page_title="Simulación de Regeneración de Tejidos",
-    page_layout="wide",
+page_title="Simulación de Regeneración de Tejidos",
+page_layout="wide",
 )
 
 st.title("Simulación Computacional de Regeneración de Tejidos (Necrosis)")
